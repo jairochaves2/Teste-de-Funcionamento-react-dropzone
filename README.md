@@ -1,6 +1,6 @@
 # Implemetação React Dropzone
 
-## Para utilizar
+## Para utilizar:
 
 ### `yarn`
 
